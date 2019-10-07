@@ -1,0 +1,8 @@
+# search.py: 6
+PyPDF2 == 1.26.0
+
+# search.py: 7
+docx2txt == 0.7
+
+# search.py: 5
+pandas == 0.24.1
