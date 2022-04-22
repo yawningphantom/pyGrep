@@ -1,5 +1,5 @@
 # search.py: 6
-PyPDF2 == 1.26.0
+PyPDF2 == 1.27.5
 
 # search.py: 7
 docx2txt == 0.7
